@@ -1,1 +1,1 @@
-puts 'Hello Aoyama'
+p 'Hello Aoyama'
